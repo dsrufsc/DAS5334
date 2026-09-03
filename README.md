@@ -1,4 +1,4 @@
-# DAS5334 — Introdução à Informática
+# DAS5334 — Introdução à Informática para Automação
 
 Resoluções dos exercícios da disciplina em Python · Turma 01220A · 2026/2
 
